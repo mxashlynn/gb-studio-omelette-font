@@ -15,7 +15,7 @@ The [original Omelette fonts](https://github.com/Bananattack/omelette_font) are 
 
 ## How To Use 👩‍🔬
 
-1. Download this repository.
+1. Clone this repository.
 2. Copy the font file from the `assets/ui` folder in this repository to the same folder in your GB Studio project.
 3. Rename the file to `ascii.png`, replacing any existing file with that name.
 4. That's it!  GB Studio will now use Omelette_8x8 font.
