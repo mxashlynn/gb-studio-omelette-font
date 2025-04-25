@@ -5,20 +5,27 @@ as adapted by [Paige Ashlynn](https://github.com/mxashlynn) for use with [GB Stu
 
 The [original Omelette fonts](https://github.com/Bananattack/omelette_font) are available on GitHub.
 
-## Contents 📂
+## Development 🛠
 
-- **Omelette_8x8** combines the following~~
+- These fonts combine elements from the following〜
     - an adaptation of [Omelette Thin Plain](https://github.com/Bananattack/omelette_font/blob/master/assets/png_rgb_magenta/om_thin_plain_rgb_magenta.png);
     - an adaptation of [Omelette Thick Plain](https://github.com/Bananattack/omelette_font/blob/master/assets/png_rgb_magenta/om_thick_plain_rgb_magenta.png);
     - elements of [Omelette Buttons](https://github.com/Bananattack/omelette_font/blob/master/assets/png_rgb_magenta/om_buttons_plain_rgb_magenta.png) that are relevant to GB Studio titles;
     - a few additional glyphs by Paige Ashlynn rendered in the Omelette style.
 
+## Contents 📂
+
+- Omelette 8x8 Light Monospace
+- Omelette 8x8 Light Variable Width
+- Omelette 8x8 Heavy Monospace
+- Omelette 8x8 Heavy Variable Width
+
 ## How To Use 👩‍🔬
 
 1. Clone this repository.
-2. Copy the font file from the `assets/ui` folder in this repository to the same folder in your GB Studio project.
-3. Rename the file to `ascii.png`, replacing any existing file with that name.
-4. That's it!  GB Studio will now use Omelette_8x8 font.
+2. Copy the font files from the `assets/fonts` folder in this repository to the same folder in your GB Studio project.
+3. Select the font variant you want to use from GB Studio's **Settings** screen.
+4. That's it!
 
 For more information please see the [GB Studio user interface documentation](https://www.gbstudio.dev/docs/ui-elements/).
 
