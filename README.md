@@ -32,4 +32,4 @@ For more information please see the [GB Studio user interface documentation](htt
 ## Rights 🏳️‍🌈🏳️‍⚧️
 
 This font asset is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-You can use this font in your own projects or modify it to create your own versions as long as you credit the original creator and the adaptor.
+You can use this font in your own projects or modify it to create your own versions as long as you credit the original creator and the adapter.
